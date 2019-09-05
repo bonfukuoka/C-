@@ -1,0 +1,11 @@
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\bin\Debug\netcoreapp2.1\StudentAnhTeacher.deps.json
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\bin\Debug\netcoreapp2.1\StudentAnhTeacher.runtimeconfig.json
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\bin\Debug\netcoreapp2.1\StudentAnhTeacher.runtimeconfig.dev.json
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\bin\Debug\netcoreapp2.1\StudentAnhTeacher.dll
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\bin\Debug\netcoreapp2.1\StudentAnhTeacher.pdb
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\obj\Debug\netcoreapp2.1\StudentAnhTeacher.csprojAssemblyReference.cache
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\obj\Debug\netcoreapp2.1\StudentAnhTeacher.csproj.CoreCompileInputs.cache
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\obj\Debug\netcoreapp2.1\StudentAnhTeacher.AssemblyInfoInputs.cache
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\obj\Debug\netcoreapp2.1\StudentAnhTeacher.AssemblyInfo.cs
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\obj\Debug\netcoreapp2.1\StudentAnhTeacher.dll
+D:\C#2\StudentAnhTeacher\StudentAnhTeacher\obj\Debug\netcoreapp2.1\StudentAnhTeacher.pdb

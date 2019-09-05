@@ -1,0 +1,11 @@
+D:\C#2\PhotoAlbum\obj\Debug\netcoreapp2.1\PhotoAlbum.csprojAssemblyReference.cache
+D:\C#2\PhotoAlbum\obj\Debug\netcoreapp2.1\PhotoAlbum.csproj.CoreCompileInputs.cache
+D:\C#2\PhotoAlbum\obj\Debug\netcoreapp2.1\PhotoAlbum.AssemblyInfoInputs.cache
+D:\C#2\PhotoAlbum\obj\Debug\netcoreapp2.1\PhotoAlbum.AssemblyInfo.cs
+D:\C#2\PhotoAlbum\bin\Debug\netcoreapp2.1\PhotoAlbum.deps.json
+D:\C#2\PhotoAlbum\bin\Debug\netcoreapp2.1\PhotoAlbum.runtimeconfig.json
+D:\C#2\PhotoAlbum\bin\Debug\netcoreapp2.1\PhotoAlbum.runtimeconfig.dev.json
+D:\C#2\PhotoAlbum\bin\Debug\netcoreapp2.1\PhotoAlbum.dll
+D:\C#2\PhotoAlbum\bin\Debug\netcoreapp2.1\PhotoAlbum.pdb
+D:\C#2\PhotoAlbum\obj\Debug\netcoreapp2.1\PhotoAlbum.dll
+D:\C#2\PhotoAlbum\obj\Debug\netcoreapp2.1\PhotoAlbum.pdb
